@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "eeprom")(type "KiCad")(uri "${KIPRJMOD}/93LC56BT-I_OT/93LC56BT-I_OT.kicad_sym")(options "")(descr ""))
+  (lib (name "ABM8G")(type "KiCad")(uri "${KIPRJMOD}/ABM8G-12.000MHZ-18-D2Y-T/ABM8G-12.000MHZ-18-D2Y-T.kicad_sym")(options "")(descr ""))
+  (lib (name "AZ1117")(type "KiCad")(uri "${KIPRJMOD}/AZ1117CH-3.3TRG1/AZ1117CH-3.3TRG1.kicad_sym")(options "")(descr ""))
+  (lib (name "JAE_USB")(type "KiCad")(uri "${KIPRJMOD}/DX07S016JA1R1500/DX07S016JA1R1500.kicad_sym")(options "")(descr ""))
+)
